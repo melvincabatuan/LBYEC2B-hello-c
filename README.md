@@ -5,3 +5,6 @@ This is an example assignment where we familiarize our Github classroom workflow
 Write a C program that prints the string "Hello, World!".
 The tests are currently failing because we're printing the wrong string. 
 Correcting the `printf` will fix the tests.
+
+### To do
+Edit the hello.c file to prints the string "Hello, World!".
