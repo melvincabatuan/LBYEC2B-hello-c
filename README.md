@@ -7,4 +7,4 @@ The tests are currently failing because we're printing the wrong string.
 Correcting the `printf` will fix the tests.
 
 ### To do
-Edit the hello.c file to prints the string "Hello, LBYEC2B!".
+Edit the hello.c source file to prints the string "Hello, LBYEC2B!".
